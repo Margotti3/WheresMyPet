@@ -1,7 +1,7 @@
 # WheresMyPet
 Site para a exposição e pré-cadastro para um futuro app de busca por animais domésticos perdidos
 
-##Passos para que posso visualizar tudo do site produzido:
+## Passos para que posso visualizar tudo do site produzido:
 
 - [ ] É necessário ter o programa de servidor local XAMPP
 
